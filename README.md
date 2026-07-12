@@ -1,5 +1,7 @@
 <div align="center" style="line-height: 1;">
+  
 <!-- test 2026.07 -->
+
 # LR2oraja \~Endless Dream\~
 
 <!-- swap this between default and default-inverted to update the number -->
